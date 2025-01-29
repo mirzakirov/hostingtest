@@ -1,0 +1,29 @@
+.text {
+    text-align: center;
+    background-color: brown;
+    width: 636px;
+    margin: 0 auto;
+    padding: 23px 0;
+    color: #fff;
+
+}
+
+body {
+    background-color: darkslategray;
+}
+
+.box {
+    font-size: 30px;
+    padding: 54px;
+    background-color: aqua;
+    width: 896px;
+    margin: 100px auto;
+}
+
+.parent {
+    border: 3px solid red;
+    padding: 10px;
+    margin: 200px auto;
+    background-color: black;
+    width: 1300px;
+}
